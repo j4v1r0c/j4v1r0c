@@ -1,0 +1,4 @@
+- 👋 Hi, my name is Javi
+- 📚 I'm a final year computer engineering and business management student
+- 👀 I’m interested in learning the different technologies
+- 📫 You can contact me right here
